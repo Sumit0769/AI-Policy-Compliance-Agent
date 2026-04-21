@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.env
+
+# Embeddings / Index
+embeddings/
+pageindex_store/
+
+# Data files (optional - keep raw small only)
+data/processed/
+
+# OS files
+.DS_Store
+
+# Logs
+*.log
+
+# Secrets
+.env
