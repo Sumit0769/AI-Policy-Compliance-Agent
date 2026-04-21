@@ -1,0 +1,24 @@
+# Core API
+fastapi
+uvicorn
+
+# LangChain + LLM
+langchain
+langchain-openai
+langchain-community
+
+# Document Loading
+pypdf
+python-docx
+docx2txt
+
+# Vectorless RAG
+pageindex
+
+# Data Processing
+numpy
+pandas
+
+# Utilities
+python-dotenv
+
